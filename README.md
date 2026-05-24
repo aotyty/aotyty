@@ -7,3 +7,4 @@
 
 
 
+<img src='https://www.codewars.com/users/aotyty/badges/micro'>
