@@ -4,7 +4,3 @@
 ## About Me
 - I’m currently learning: Python and Linux.
 - Fun fact: I spend more time customizing my desktop than writing code...
-
-
-
-<img src='https://www.codewars.com/users/aotyty/badges/micro'>
