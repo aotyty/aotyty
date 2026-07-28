@@ -1,6 +1,21 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm dity</h1>
-<h3 align="center">Just a guy who replaced Windows with Linux and never looked back. Now trying to make Python do what I want.</h3>
+```zsh
+> neofetch
+```
 
-## About Me
-- I’m currently learning: Python and Linux.
-- Fun fact: I spend more time customizing my desktop than writing code...
+<img align="left" src="https://i.redd.it/h7dae4o0uk461.jpg" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="290" /> 
+
+```csharp
+dity@github
+-------------------------
+OS: Arch Linux x86_64
+Shell: fish 4.8.1
+Pronouns: He/Him
+Location: -
+Frameworks: -
+Languages: Python
+Learning: PostgreSQL
+Hobbies: Coding, Gaming, Reading
+Commits: -
+Stars: - 
+Telegram: -
+```
