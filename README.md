@@ -16,6 +16,6 @@ Frameworks: -
 Languages: Python
 Tools: Linux, Neovim
 Learning: PostgreSQL, Redis, Docker, FastAPI
-Hobbies: Coding, Gaming, Reading, Ricing
+Hobbies: Coding, Gaming, Reading, Ricing, Anime
 Telegram: -
 ```
