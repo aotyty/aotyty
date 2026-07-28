@@ -10,7 +10,7 @@ dity@github
 OS: Arch Linux x86_64
 Shell: fish 4.8.1
 Pronouns: He/Him
-Location: -
+Location: Russia
 Locales: ru_RU, en_US
 Frameworks: -
 Languages: Python
