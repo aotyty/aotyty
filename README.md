@@ -12,10 +12,10 @@ Shell: fish 4.8.1
 Pronouns: He/Him
 Location: Russia
 Locales: ru_RU, en_US
-Frameworks: -
 Languages: Python
 Tools: Linux, Neovim
-Learning: PostgreSQL, Redis, Docker, FastAPI
+Learning: Rust
 Hobbies: Coding, Gaming, Reading, Ricing, Anime
 Telegram: -
+Message: Nice to meet you!
 ```
